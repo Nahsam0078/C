@@ -18,4 +18,4 @@ Welcome to my C programming repository! I'm just starting to learn C, and this r
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/C-Learning-Journey.git
+   git clone https://github.com/Nahsam0078/C
