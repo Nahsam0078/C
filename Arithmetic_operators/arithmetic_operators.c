@@ -11,6 +11,7 @@ int main(){
     //z = x / y; // Division
     //z = x % y; // Modulus
     z = x++; // Increment
+    
     printf("z = %d, x after increment = %d\n", z, x); // Correct description
     return 0;
 }
